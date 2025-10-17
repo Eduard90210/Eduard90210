@@ -1,7 +1,7 @@
-##  👋 Excelente Dia, mi nombre es Eduardo Salgado
+##  👋 Excelente Día, mi nombre es Eduardo Salgado
 
 🎯 **Analista de Datos Junior** Con experiencia realizando Dashboars para empresa del sector financiero.  
-Me apaciona el descubrimiento de hallazgos mediante en analisis de los datos existentes lo cual considero es una herramienta fundamental  para la toma de decisiones en las empresas.
+Me apasiona el descubrimiento de hallazgos mediante en análisis de los datos existentes lo cual considero es una herramienta fundamental  para la toma de decisiones en las empresas.
 
 
 --- 
@@ -13,11 +13,11 @@ Me apaciona el descubrimiento de hallazgos mediante en analisis de los datos exi
 
 
 ---
-### 🛠️ Herramientas Tecnicas
+### 🛠️ Herramientas Técnicas
 💻 **Lenguajes:** Python, SQL  
 📈 **Visualización:** Power BI, Tableau  
 🗄️ **Bases de datos:** Excel, Google Sheets
-📚 **Otras:** Grabacion de Macros 
+📚 **Otras:** Grabación de Macros 
 
 
 ---
@@ -42,7 +42,16 @@ Me apaciona el descubrimiento de hallazgos mediante en analisis de los datos exi
 - 📌 Análisis de rentabilidad de áreas de cobranza y Jurídico en  Cooperativa PEMEX  con POWER BI  en 2025
 - 📌 Análisis y elaboración de indicadores de no consumo de Créditos de Cooperativa PEMEX  en POWER BI en  diciembre 2024
 - 📌 Implementación de una herramienta de Cobranza  por medio de un análisis en POWER BI  en Noviembre 2024
-- 📌 Análisis de la eficiencia de los operadores en de CallMe Maybe, empresa de telecomunicaciones en Agosto 2025 con PYTHON Y TABLEU
+- 📌 [Análisis de la eficiencia de los operadores en de CallMe Maybe, empresa de telecomunicaciones en Agosto 2025 con PYTHON Y TABLEU](https://public.tableau.com/views/ProyectoFinalCallMeMaybeAnalisis/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+
+---
+
+### 📫 Mis Datos Personales 
+- 💼 [LinkedIn](https://www.linkedin.com/in/da-edu-ss)
+- ✉️ **Correo:** lalo2007.e9@gmail.com
+- ✉️ **Correo:** eduardo.salgado.silva@gmail.com
+- 🗂️ **Cel:** 5591906874
 
 <!--
 **Eduard90210/Eduard90210** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
