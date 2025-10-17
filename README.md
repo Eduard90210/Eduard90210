@@ -11,6 +11,7 @@ Me apaciona el descubrimiento de hallazgos mediante en analisis de los datos exi
 - 🔍 Interesado en **Inteligencia de Negocios** y **optimización de procesos existentes**.  
 - 💡 De mis mayores motivadores es generar valor a partir la visualización de datos.
 
+
 ---
 ### 🛠️ Herramientas Tecnicas
 💻 **Lenguajes:** Python, SQL  
@@ -18,20 +19,30 @@ Me apaciona el descubrimiento de hallazgos mediante en analisis de los datos exi
 🗄️ **Bases de datos:** Excel, Google Sheets
 📚 **Otras:** Grabacion de Macros 
 
+
 ---
 
+
 ### 😁 Otros Aspectos de mi
-- 📊 He realizado dashboards en **Power BI** y **Tableau**.  
-- 🐍 Mejorando mis habilidades en **Python** y **SQL** como auxiliares para la limpieza y procesamiento en el análisis de datos.  
-- 🔍 Interesado en **Inteligencia de Negocios** y **optimización de procesos existentes**.  
-- 💡 De mis mayores motivadores es generar valor a partir la visualización de datos.
+
+- 💑 Responsabilidad, honestidad y compromiso, la mejor herencia de mis padres.
+- 😃 La congruencia le da sentido a mis acciones.
+- 🙏 Me gusta ser espiritual.
+- 😊 Amo la tranquilidad
+- 👍 El trabajo en equipo me hace crecer.
+- 🛠️ El nuevo conocimiento me alimenta.
+- 🙌 Mi entorno me alienta.
+  
 
 ---
 
 ### 📂 Proyectos
-- 📊 [Análisis de eficiencia de operadores telefónicos](https://github.com/Eduard90210/proyecto_llamadas)
-- 💰 [Dashboard financiero en Power BI](https://github.com/Eduard90210/dashboard_financiero)
-- 🚕 [Estudio de rentabilidad en transporte por app](https://github.com/Eduard90210/taxi_data)
+
+
+- 📌 Análisis de rentabilidad de áreas de cobranza y Jurídico en  Cooperativa PEMEX  con POWER BI  en 2025
+- 📌 Análisis y elaboración de indicadores de no consumo de Créditos de Cooperativa PEMEX  en POWER BI en  diciembre 2024
+- 📌 Implementación de una herramienta de Cobranza  por medio de un análisis en POWER BI  en Noviembre 2024
+- 📌 Análisis de la eficiencia de los operadores en de CallMe Maybe, empresa de telecomunicaciones en Agosto 2025 con PYTHON Y TABLEU
 
 <!--
 **Eduard90210/Eduard90210** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
