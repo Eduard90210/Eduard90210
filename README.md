@@ -1,4 +1,7 @@
-## Hi there 👋
+##  👋 Excelente Dia, mi nombre es Eduardo Salgado
+
+🎯 **Analista de Datos Junior** Con experiencia realizando Dashboars para empresa del sector financiero.  
+Me apaciona el descubriemiento de hallazgos mediante en analisis de los datos existentes lo cual considera es una herramienta fundamental  para la toma de decisiones.
 
 <!--
 **Eduard90210/Eduard90210** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
