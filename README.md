@@ -39,7 +39,7 @@ Me apasiona el descubrimiento de hallazgos mediante en análisis de los datos ex
 ### 📂 Proyectos
 
 
-- 📌 Análisis de rentabilidad de áreas de cobranza y Jurídico en  Cooperativa PEMEX  con POWER BI  en 2025
+- 📌 [Análisis de rentabilidad de áreas de cobranza y Jurídico en  Cooperativa PEMEX  con POWER BI  en 2025](<iframe title="Rentabilidad Juridico" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiOWQzOTE2ZjAtYjgwNS00Mzg1LWIzOTMtNzIzZGJlMTAzZDRhIiwidCI6ImJjZDBhNTMyLWFkZmItNDg4OS04NWUyLWMwZDNhMzBkN2MwMCJ9" frameborder="0" allowFullScreen="true"></iframe>)
 - 📌 Análisis y elaboración de indicadores de no consumo de Créditos de Cooperativa PEMEX  en POWER BI en  diciembre 2024
 - 📌 Implementación de una herramienta de Cobranza  por medio de un análisis en POWER BI  en Noviembre 2024
 - 📌 [Análisis de la eficiencia de los operadores en de CallMe Maybe, empresa de telecomunicaciones en Agosto 2025 con PYTHON Y TABLEU](https://public.tableau.com/views/ProyectoFinalCallMeMaybeAnalisis/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
